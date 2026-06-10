@@ -1,11 +1,11 @@
 title: Matthew Waas, PhD # your name (or website title) here
 logo: "/images/Untitled-1.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-I'm a proteomics researcher and platform builder with a focus on cell surface biology. My work centers on developing and applying mass spectrometry workflows to map the proteins that line the cell surface — the molecular interface through which cells sense and respond to their environment — uncovering biology that conventional approaches miss.
+ I'm a proteomics researcher and platform builder with a focus on cell surface biology. My work centers on developing and applying mass spectrometry workflows to map the proteins that line the cell surface — the molecular interface through which cells sense and respond to their environment — uncovering biology that conventional approaches miss.
  <br><br>
-I've built tools including SurfaceGenie, DROPPS, CIRFESS, and SP2 to make specialized proteomics methods more accessible and reproducible across research contexts. My background spans cancer biology, cardiac proteomics, and multi-omic integration, working across both wet lab and computational domains.
+ I've built tools including SurfaceGenie, DROPPS, CIRFESS, and SP2 to make specialized proteomics methods more accessible and reproducible across research contexts. My background spans cancer biology, cardiac proteomics, and multi-omic integration, working across both wet lab and computational domains.
  <br><br>
-I'm currently a Research Manager in the Gundry Laboratory at the University of Nebraska Medical Center in the Gundry Lab, where I lead mass spectrometry-based research projects and industry-sponsored collaborations. I also serve as the Director of the Bioassay Core as part of the Center for Heart & Vascular Research.
+ I'm currently a Research Manager in the Gundry Laboratory at the University of Nebraska Medical Center in the Gundry Lab, where I lead mass spectrometry-based research projects and industry-sponsored collaborations. I also serve as the Director of the Bioassay Core as part of the Center for Heart & Vascular Research.
   <br><br>
   
   <br><br>
@@ -16,4 +16,4 @@ I'm currently a Research Manager in the Gundry Laboratory at the University of N
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
