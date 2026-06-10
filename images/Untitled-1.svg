@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1042.8 885.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <ellipse class="cls-1" cx="513.23" cy="442.24" rx="436.84" ry="435.39"/>
+    </clipPath>
+  </defs>
+  <g class="cls-2">
+    <image width="3476" height="2952" transform="scale(.3)" xlink:href="05-12-26_MatthewWaas-001r_crop.jpg"/>
+  </g>
+</svg>
